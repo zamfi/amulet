@@ -10,7 +10,8 @@
   		"tagId"			:	"7500484294EB",
   		"startDate"	: "2009-07-06",
   		"expirationDate" : "2014-12-31",
-  		"membershipType": "full"	
+  		"membershipType": "full",
+  		"tags"			: "Business Tools, Marketing, WordPress, STEAM"
   	},
   	{
   		"id"				: 1003,
@@ -22,7 +23,8 @@
   		"tagId"			:	"750048574D27",
   		"startDate"	: "2009-07-06",
   		"expirationDate" : "2014-12-31",
-  		"membershipType": "meetup"	
+  		"membershipType": "meetup",
+  		"tags"			: "Making, STEAM"	
   	},
   	{
   		"id"				: 1004,
@@ -34,7 +36,8 @@
   		"tagId"			:	"7500736CD9B3",
   		"startDate"	: "2009-07-06",
   		"expirationDate" : "2014-12-31",
-  		"membershipType": "partner"	
+  		"membershipType": "partner",
+  		"tags"			: "Programming, Making, STEAM, Marketing"	
   	},
   		{
   		"id"				: 1005,
@@ -46,7 +49,8 @@
   		"tagId"			:	"75007373A1D4",
   		"startDate"	: "2013-07-06",
   		"expirationDate" : "2014-07-31",
-  		"membershipType": "meetup"	
+  		"membershipType": "meetup",
+  		"tags"			: "Business Tools, STEAM, Making"
   	}
   ]
 }
