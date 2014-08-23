@@ -9,7 +9,7 @@
   		"title"			: "Google Analytics for Business",
   		"description": "<strong>Get better results with Google Analytics</strong>. <p>Suitble for all business people.</p>",
   		"price"			: "$45.00",
-  		"tags"			: "Business Tools, Marketing"
+  		"tags"			: ["Business Tools", "Marketing"]
   	},
   	{
   		"id": 12353,
@@ -21,7 +21,7 @@
   		"description": "<strong>Learn to make with Arduino</strong>. <p>This is great for adults and kids over 13.</p>",
   		"price"			: "$400.00",
   		"memberDiscount"	: "$20",
-  		"tags"			: "Programming, Making, STEAM"
+  		"tags"			: ["Programming", "Making", "STEAM"]
   	},
   	{
   		"id": 12253,
@@ -33,7 +33,7 @@
   		"description": "<strong>Get help from people in the know.</strong>. <p>Answer the age-old question.</p>",
   		"price"			: "$10.00",
   		"memberDiscount":	"$5",
-  		"tags"			: "Programming, STEAM"
+  		"tags"			: ["Programming", "STEAM"]
   	}
   ]
 }
