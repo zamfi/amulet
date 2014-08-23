@@ -1,0 +1,34 @@
+{events: [
+	{
+		id: 12351,
+		startDate	: '2014-08-26',
+		startTime	: '13:00',
+		endDate 	:	'2014-08-26',
+		endTime   : '15:00',
+		title			: 'Google Analytics for Business',
+		description: '<strong>Get better results with Google Analytics</strong>. <p>Suitble for all business people.</p>',
+		price			: '$45.00'
+	},
+	{
+		id: 12353,
+		startDate	: '2014-10-11',
+		startTime	: '09:00',
+		endDate 	:	'2014-10-12',
+		endTime   : '18:00',
+		title			: 'Workshop Weekend: Arduino',
+		description: '<strong>Learn to make with Arduino</strong>. <p>This is great for adults and kids over 13.</p>',
+		price			: '$400.00',
+		memberDiscount	: '$20'
+	},
+	{
+		id: 12253,
+		startDate	: '2014-08-28',
+		startTime	: '18:00',
+		endDate 	:	'2014-08-28',
+		endTime   : '20:30',
+		title			: 'What Programming Language Should I learn',
+		description: '<strong>Get help from people in the know.</strong>. <p>Answer the age-old question.</p>',
+		price			: '$10.00',
+		memberDiscount:	'$5'
+	}
+]}

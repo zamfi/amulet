@@ -1,0 +1,50 @@
+{members: [	
+	{
+		id				: 1002,
+		userName	: 'anca',
+		status		:	'active',
+		firstName	: 'Anca',
+		lastName	: 'Mosoiu',
+		email			: 'anca@anca.tv',
+		tagId			:	'7500484294EB',
+		startDate	: '2009-07-06',
+		expirationDate : '2014-12-31',
+		membershipType: 'full'	
+	},
+	{
+		id				: 1003,
+		userName	: 'jeff',
+		status		:	'active',
+		firstName	: 'Jeffrey',
+		lastName	: 'Jouppi',
+		email			: 'jeff@jouppi.com',
+		tagId			:	'750048574D27',
+		startDate	: '2009-07-06',
+		expirationDate : '2014-12-31',
+		membershipType: 'meetup'	
+	},
+	{
+		id				: 1004,
+		userName	: 'jd',
+		status		:	'active',
+		firstName	: 'J.D.',
+		lastName	: 'Zamfirescu',
+		email			: 'zamfire@gmail.com',
+		tagId			:	'7500736CD9B3',
+		startDate	: '2009-07-06',
+		expirationDate : '2014-12-31',
+		membershipType: 'partner'	
+	},
+		{
+		id				: 1005,
+		userName	: 'gil',
+		status		:	'expired',
+		firstName	: 'Gil',
+		lastName	: 'Zamfirescu',
+		email			: 'zamfire@gmail.com',
+		tagId			:	'75007373A1D4',
+		startDate	: '2013-07-06',
+		expirationDate : '2014-07-31',
+		membershipType: 'meetup'	
+	}
+]}
