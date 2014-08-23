@@ -1,0 +1,25 @@
+{
+  "name": "hello-and-welcome",
+  "version": "0.0.1",
+  "description": "RFID proxy app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zamfi/hello-and-welcome"
+  },
+  "author": "J.D. Zamfirescu <zamfire@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zamfi/hello-and-welcome/issues"
+  },
+  "homepage": "https://github.com/zamfi/hello-and-welcome",
+  "dependencies": {
+    "apn": "^1.6.0",
+    "q": "^1.0.1",
+    "serialport": "^1.4.5"
+  }
+}
