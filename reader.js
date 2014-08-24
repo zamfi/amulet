@@ -19,7 +19,7 @@ exports.start = function(onData) {
     port.on("open", function() {
       port.on("data", function(data) {
         data = data.trim();
-        if (data[0] == '\u0002') {
+        while (data[0] == '\u0002' || data[0] == '\u0003') {
           data = data.substr(1);
         }
         if (onData) {
