@@ -19,6 +19,7 @@
   "homepage": "https://github.com/zamfi/hello-and-welcome",
   "dependencies": {
     "apn": "^1.6.0",
+    "express": "^4.8.5",
     "q": "^1.0.1",
     "serialport": "^1.4.5"
   }

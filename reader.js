@@ -18,8 +18,12 @@ exports.start = function(onData) {
     var deferred = Q.defer();
     port.on("open", function() {
       port.on("data", function(data) {
+        data = data.trim();
+        if (data[0] == '\u0002') {
+          data = data.substr(1);
+        }
         if (onData) {
-          onData(data);
+          onData(data.trim());
         } else {
           console.log("Tag from:", data);          
         }
