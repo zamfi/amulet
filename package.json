@@ -1,5 +1,5 @@
 {
-  "name": "hello-and-welcome",
+  "name": "amulet",
   "version": "0.0.1",
   "description": "RFID proxy app",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zamfi/hello-and-welcome"
+    "url": "https://github.com/zamfi/amulet"
   },
   "author": "J.D. Zamfirescu <zamfire@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zamfi/hello-and-welcome/issues"
+    "url": "https://github.com/zamfi/amulet/issues"
   },
-  "homepage": "https://github.com/zamfi/hello-and-welcome",
+  "homepage": "https://github.com/zamfi/amulet",
   "dependencies": {
     "apn": "^1.6.0",
     "express": "^4.8.5",
